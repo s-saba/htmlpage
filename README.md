@@ -1,2 +1,3 @@
-# htmlpage
-A sample HTML page
+# HTML Page
+A sample HTML page with standard elements.
+
